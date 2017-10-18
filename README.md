@@ -12,7 +12,7 @@
 * Test Case Designer:
   * Name
 * Creation Date:
-  * Date
+  * Date 10/ 17 /17
 * Modified By:
   * Name
 * Modified Date:
@@ -26,7 +26,7 @@
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
-| 1 | | | |			
+| 1 |a | | |			
 | 2 | | | |			
 | 3 | | | |			
 | 4 | | | |			
