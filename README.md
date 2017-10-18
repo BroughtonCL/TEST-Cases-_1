@@ -5,11 +5,11 @@
 
 * Test Case ID:
   * #Number 01
-* Test Case Name:
-  * #Number 
-* Component: 
+* Test Case Name: MainMenu
+  * #Number 1
+* Component:Navagation  
   * Description
- 
+ The  Player  sould be able  to move the throught the  main menu option  
 * Test Case Designer:
   * Name George" Trey" Broughton
 * Creation Date:
@@ -30,7 +30,7 @@
 | 1 |New Game |only available in story mode. If the user has decided to create a new game then prompt them to pick a character to play as. | |			
 | 2 | Load Game|only available in story mode. Show a screen that allows the user to select the game file they would like to load.  | |			
 | 3 |Build Mode |The user has  a  chances  to decided  to play online multiplayer versionof  the game they create  or  provide  user  information for  online  access   | |			
-| 4 | | | |			
+| 4 |Return | Allow  the  player  to return to main menu page. | |			
 | 5 | | | |			
 | 6 | | | |			
 | 7 | | | |			
