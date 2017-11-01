@@ -19,11 +19,11 @@
 * Modified Date:
   * Date 10/17/17
 * Requirements Covered:
-  * Description
+  * Description The  game should  load  and  be  install . 
 * Test Description/Purpose:
-  * Description
+  * Description The  main menu function  should  be able  to load/reload  , also allowed  the  player  to return back to main  menu in  game  play
 * Pre-Test Conditions:
-  * Description
+  * Description Game  should  be  able  to load  on  pc  / console system and  main menu  should  load  right  away  .
 ## Test Steps: 
 | # | Description | Expected Result | Check (√) |
 | --- | --- | --- | --- |
